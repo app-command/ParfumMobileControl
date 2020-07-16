@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "357581930172",
+    "firebase_url": "https://assignmentforgraduation.firebaseio.com",
+    "project_id": "assignmentforgraduation",
+    "storage_bucket": "assignmentforgraduation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357581930172:android:8a973ecea3deec37",
+        "android_client_info": {
+          "package_name": "parfum.koreatech.parfumarduinocontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357581930172-57hl1l8gprojdk0lgkhdu9i81mfkvj6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGERofzPixGsRdqVwFBKpedU-dl1jnAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357581930172:android:f80b27e0444244f0",
+        "android_client_info": {
+          "package_name": "parfum.koreatech.parfummobilecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357581930172-a3t772lqt1t8nj9sdhhq4rtrltp8v3ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "parfum.koreatech.parfummobilecontrol",
+            "certificate_hash": "cf2682ee52afef7008c93465d8749d167bab59c4"
+          }
+        },
+        {
+          "client_id": "357581930172-57hl1l8gprojdk0lgkhdu9i81mfkvj6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGERofzPixGsRdqVwFBKpedU-dl1jnAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357581930172-57hl1l8gprojdk0lgkhdu9i81mfkvj6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
